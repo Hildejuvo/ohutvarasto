@@ -1,2 +1,4 @@
 tiedosto1
 lisätty juttuja
+uus rivi1
+uus rivi2
