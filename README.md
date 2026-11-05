@@ -1,3 +1,3 @@
 # ohutvarasto
 
-https://github.com/Hildejuvo/ohutvarasto/actions/workflows/main.yml/badge.svg
+![CI](https://github.com/Hildejuvo/ohutvarasto/actions/workflows/main.yml/badge.svg)
